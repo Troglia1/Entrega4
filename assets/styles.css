@@ -224,7 +224,7 @@ main {
   display: inline-block;
 }
 
-.footer-links uyl li a {
+.footer-links ul li a {
   font-size: 18px;
   text-decoration: none;
   color: #bbbbbb;
