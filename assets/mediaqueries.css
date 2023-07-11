@@ -9,10 +9,10 @@
     width: 90%;
     left: 5%;
     right: 5%;
-    border: 2px solid var(--electric);
+    border: 2px transparent var(--background);
     border-top: 0;
     flex-direction: column;
-    background-color: var(--electric);
+    background-color: var(---background);
     border-radius: 0px 0px 15px 15px;
     padding: 45px 30px;
     align-items: flex-start;
@@ -33,6 +33,10 @@
   }
 
   .hero-card {
+    display: none;
+  }
+
+  .info-pag {
     display: none;
   }
 
